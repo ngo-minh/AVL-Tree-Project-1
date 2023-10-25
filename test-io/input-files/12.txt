@@ -1,0 +1,6 @@
+5
+insert "Alice" 12345678
+insert "Alice" 87654321
+search "Alice"
+removeInorder 1
+search "Alice"

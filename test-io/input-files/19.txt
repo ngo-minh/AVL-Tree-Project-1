@@ -1,0 +1,46 @@
+45
+printLevelCount
+removeInorder 0
+removeInorder -1
+insert Joe 12345678
+insert "joe" 1234567
+insert "joe" 123456789
+invalidCommand
+insert "max five" 50000000
+insert "max five imposter" 50000000
+insert "max six" 60000000
+insert "max seven" 70000000
+insert "max four" 40000000
+insert "max three" 30000000
+insert "max four five" 45000000
+insert "max five five" 55000000
+insert "max five six" 56000000
+printPreorder
+printInorder
+printPostorder
+remove 50000000
+printLevelCount
+remove 55000000
+remove 70000000
+printPreorder
+printInorder
+printPostorder
+search 40000000
+search "max four five"
+search 70000000
+search "max seven"
+printLevelCount
+removeInorder 0
+removeInorder 1
+removeInorder 3
+printPreorder
+printInorder
+printPostorder
+remove 56000000
+remove 60000000
+printLevelCount
+removeInorder 0
+printLevelCount
+insert "max" 12345678
+insert "max" 12345679
+search "max"

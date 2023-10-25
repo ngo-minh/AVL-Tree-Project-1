@@ -1,0 +1,6 @@
+5
+insert "John" 44444444
+insert "Jane" 55555555
+remove 55555555
+search 55555555
+search 44444444

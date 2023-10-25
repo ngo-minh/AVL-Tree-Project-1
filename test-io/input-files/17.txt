@@ -1,0 +1,6 @@
+5
+insert "Victor" 85000000
+insert "Wendy" 95000000
+remove 85000000
+remove 95000000
+search "Victor"

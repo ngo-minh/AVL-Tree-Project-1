@@ -1,0 +1,4 @@
+3
+insert "Alic3" 12345678 #  Inserting a name with unusual characters or an ID that doesn't fit the constraints
+insert "Alice Bob" 1234567
+insert "Alice" 123456789

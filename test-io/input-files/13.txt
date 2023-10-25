@@ -1,0 +1,4 @@
+3
+removeInorder 0
+insert "Alice" 12345678
+removeInorder 2

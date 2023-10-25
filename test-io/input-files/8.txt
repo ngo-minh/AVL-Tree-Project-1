@@ -1,0 +1,3 @@
+2
+search 12345678 # Removing or searching from an empty tree
+remove 12345678

@@ -1,0 +1,6 @@
+5
+insert "Alice" 12345678
+insert "Bob" 23456789
+insert "Charlie" 34567890
+search "Charlie" 
+removeInorder 3

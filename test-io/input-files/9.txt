@@ -1,0 +1,4 @@
+3
+insert "Alice" 12345678 # Inserting a name or ID that already exists
+insert "Alice" 12345678
+insert "Bob" 12345678

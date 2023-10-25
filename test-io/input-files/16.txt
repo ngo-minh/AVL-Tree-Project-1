@@ -1,0 +1,7 @@
+6
+insert "Rachel" 45000000
+insert "Steve" 55000000
+insert "Tim" 65000000
+insert "Uma" 75000000
+removeInorder 1
+search 55000000

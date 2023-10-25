@@ -1,0 +1,9 @@
+8
+insert "Alice" 12345678
+insert "Bob" 87654321
+insert "Charlie" 55555555
+insert "Dave" 44444444
+printInorder
+printPreorder
+printPostorder
+printLevelCount

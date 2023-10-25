@@ -1,0 +1,6 @@
+5
+insert "Alice" 12345678 # Removing the root or a leaf node
+insert "Bob" 99999999
+remove 12345678
+remove 99999999
+search 12345678

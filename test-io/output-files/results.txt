@@ -1,0 +1,6 @@
+Results: 
+Test case 20: 
+Comparing files TEST-IO\EXPECTED-OUTPUT-FILES\20.txt and TEST-IO\OUTPUT-FILES\20.TXT
+FC: no differences encountered
+
+ 

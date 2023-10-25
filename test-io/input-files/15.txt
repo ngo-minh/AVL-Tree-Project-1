@@ -1,0 +1,6 @@
+5
+insert "Olivia" 15000000
+insert "Paul" 25000000
+insert "Quinn" 35000000
+remove 15000000
+search "Olivia"
